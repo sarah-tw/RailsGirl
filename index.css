@@ -2,6 +2,7 @@ body{
 	background-color: #222;
 	font-family: Helvetica;
 	font-size: 18px;
+
 }
 
 h1{
@@ -15,8 +16,15 @@ a{
 	color: rgb(232, 12, 122);
 }
 .content{
-	width: 460px;
+	width: 560px;
 	height: auto;
 	margin: 0 auto;
 	color: #f8f8f8;
+}
+li {
+    line-height: 1.5em;
+    list-style: circle;
+}
+h2 {
+    font-weight: normal;
 }
