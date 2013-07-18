@@ -2,6 +2,7 @@ body{
 	background-color: #222;
 	font-family: Helvetica;
 	font-size: 18px;
+    margin: 0;
 
 }
 
@@ -19,7 +20,7 @@ a{
 	width: 560px;
 	height: auto;
 	margin: 0 auto;
-	color: #f8f8f8;
+	color: #d8d8d8;
 }
 
 li {
@@ -29,3 +30,13 @@ li {
 h2 {
     font-weight: normal;
 }
+
+
+footer {
+    background: #555;
+    color: #999;
+    font-size: 0.8em;
+    text-align: center;
+    padding: 30px 0;
+}
+
